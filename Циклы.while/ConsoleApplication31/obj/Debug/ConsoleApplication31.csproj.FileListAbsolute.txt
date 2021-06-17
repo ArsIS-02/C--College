@@ -1,0 +1,11 @@
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication31\ConsoleApplication31\bin\Debug\ConsoleApplication31.exe.config
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication31\ConsoleApplication31\bin\Debug\ConsoleApplication31.exe
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication31\ConsoleApplication31\bin\Debug\ConsoleApplication31.pdb
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication31\ConsoleApplication31\obj\Debug\ConsoleApplication31.exe
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication31\ConsoleApplication31\obj\Debug\ConsoleApplication31.pdb
+G:\Арсентьев С++  и С#\C#\ConsoleApplication31\ConsoleApplication31\bin\Debug\ConsoleApplication31.exe.config
+G:\Арсентьев С++  и С#\C#\ConsoleApplication31\ConsoleApplication31\bin\Debug\ConsoleApplication31.exe
+G:\Арсентьев С++  и С#\C#\ConsoleApplication31\ConsoleApplication31\bin\Debug\ConsoleApplication31.pdb
+G:\Арсентьев С++  и С#\C#\ConsoleApplication31\ConsoleApplication31\obj\Debug\ConsoleApplication31.csproj.CoreCompileInputs.cache
+G:\Арсентьев С++  и С#\C#\ConsoleApplication31\ConsoleApplication31\obj\Debug\ConsoleApplication31.exe
+G:\Арсентьев С++  и С#\C#\ConsoleApplication31\ConsoleApplication31\obj\Debug\ConsoleApplication31.pdb
