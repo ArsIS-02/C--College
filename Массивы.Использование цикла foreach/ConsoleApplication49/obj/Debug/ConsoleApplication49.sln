@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "ConsoleApplication49", "ConsoleApplication49.exe", "{A0147E4D-0228-4719-9626-EB24703192DE}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = D:\Soft\#Учёба НТГПК\!!!Учёба-Порядок\3 курс\КЭ\Арсентьев Фуркадо\ConsoleApplication49\ConsoleApplication49\obj\Debug\ConsoleApplication49.exe
+		RemoteMachine = WORKSTATION
+		StartingDirectory = D:\Soft\#Учёба НТГПК\!!!Учёба-Порядок\3 курс\КЭ\Арсентьев Фуркадо\ConsoleApplication49\ConsoleApplication49\obj\Debug
+		Environment = По умолчанию
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0147E4D-0228-4719-9626-EB24703192DE}.Debug|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication41\ConsoleApplication41\bin\Debug\ConsoleApplication41.exe.config
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication41\ConsoleApplication41\bin\Debug\ConsoleApplication41.exe
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication41\ConsoleApplication41\bin\Debug\ConsoleApplication41.pdb
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication41\ConsoleApplication41\obj\Debug\ConsoleApplication41.csprojResolveAssemblyReference.cache
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication41\ConsoleApplication41\obj\Debug\ConsoleApplication41.exe
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication41\ConsoleApplication41\obj\Debug\ConsoleApplication41.pdb
+G:\Арсентьев С++  и С#\C#\ConsoleApplication41\ConsoleApplication41\bin\Debug\ConsoleApplication41.exe.config
+G:\Арсентьев С++  и С#\C#\ConsoleApplication41\ConsoleApplication41\bin\Debug\ConsoleApplication41.exe
+G:\Арсентьев С++  и С#\C#\ConsoleApplication41\ConsoleApplication41\bin\Debug\ConsoleApplication41.pdb
+G:\Арсентьев С++  и С#\C#\ConsoleApplication41\ConsoleApplication41\obj\Debug\ConsoleApplication41.csproj.CoreCompileInputs.cache
+G:\Арсентьев С++  и С#\C#\ConsoleApplication41\ConsoleApplication41\obj\Debug\ConsoleApplication41.exe
+G:\Арсентьев С++  и С#\C#\ConsoleApplication41\ConsoleApplication41\obj\Debug\ConsoleApplication41.pdb

@@ -1,0 +1,14 @@
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication45\ConsoleApplication45\bin\Debug\ConsoleApplication45.exe.config
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication45\ConsoleApplication45\bin\Debug\ConsoleApplication45.exe
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication45\ConsoleApplication45\bin\Debug\ConsoleApplication45.pdb
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication45\ConsoleApplication45\obj\Debug\ConsoleApplication45.exe
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication45\ConsoleApplication45\obj\Debug\ConsoleApplication45.pdb
+\\tsclient\Z\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication45\ConsoleApplication45\bin\Debug\ConsoleApplication45.exe.config
+\\tsclient\Z\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication45\ConsoleApplication45\obj\Debug\ConsoleApplication45.exe
+\\tsclient\Z\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication45\ConsoleApplication45\obj\Debug\ConsoleApplication45.pdb
+G:\Арсентьев С++  и С#\C#\ConsoleApplication45\ConsoleApplication45\bin\Debug\ConsoleApplication45.exe.config
+G:\Арсентьев С++  и С#\C#\ConsoleApplication45\ConsoleApplication45\bin\Debug\ConsoleApplication45.exe
+G:\Арсентьев С++  и С#\C#\ConsoleApplication45\ConsoleApplication45\bin\Debug\ConsoleApplication45.pdb
+G:\Арсентьев С++  и С#\C#\ConsoleApplication45\ConsoleApplication45\obj\Debug\ConsoleApplication45.csproj.CoreCompileInputs.cache
+G:\Арсентьев С++  и С#\C#\ConsoleApplication45\ConsoleApplication45\obj\Debug\ConsoleApplication45.exe
+G:\Арсентьев С++  и С#\C#\ConsoleApplication45\ConsoleApplication45\obj\Debug\ConsoleApplication45.pdb

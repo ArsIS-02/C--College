@@ -1,0 +1,22 @@
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication49\ConsoleApplication49\bin\Debug\ConsoleApplication49.exe.config
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication49\ConsoleApplication49\bin\Debug\ConsoleApplication49.exe
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication49\ConsoleApplication49\bin\Debug\ConsoleApplication49.pdb
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication49\ConsoleApplication49\obj\Debug\ConsoleApplication49.exe
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication49\ConsoleApplication49\obj\Debug\ConsoleApplication49.pdb
+\\tsclient\Z\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication49\ConsoleApplication49\bin\Debug\ConsoleApplication49.exe.config
+\\tsclient\Z\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication49\ConsoleApplication49\obj\Debug\ConsoleApplication49.exe
+\\tsclient\Z\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication49\ConsoleApplication49\obj\Debug\ConsoleApplication49.pdb
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication49\ConsoleApplication49\obj\Debug\ConsoleApplication49.csprojResolveAssemblyReference.cache
+D:\Soft\#Учёба НТГПК\!!!Учёба-Порядок\3 курс\КЭ\Арсентьев Фуркадо\ConsoleApplication49\ConsoleApplication49\bin\Debug\ConsoleApplication49.exe.config
+D:\Soft\#Учёба НТГПК\!!!Учёба-Порядок\3 курс\КЭ\Арсентьев Фуркадо\ConsoleApplication49\ConsoleApplication49\bin\Debug\ConsoleApplication49.exe
+D:\Soft\#Учёба НТГПК\!!!Учёба-Порядок\3 курс\КЭ\Арсентьев Фуркадо\ConsoleApplication49\ConsoleApplication49\bin\Debug\ConsoleApplication49.pdb
+D:\Soft\#Учёба НТГПК\!!!Учёба-Порядок\3 курс\КЭ\Арсентьев Фуркадо\ConsoleApplication49\ConsoleApplication49\obj\Debug\ConsoleApplication49.csprojAssemblyReference.cache
+D:\Soft\#Учёба НТГПК\!!!Учёба-Порядок\3 курс\КЭ\Арсентьев Фуркадо\ConsoleApplication49\ConsoleApplication49\obj\Debug\ConsoleApplication49.csproj.CoreCompileInputs.cache
+D:\Soft\#Учёба НТГПК\!!!Учёба-Порядок\3 курс\КЭ\Арсентьев Фуркадо\ConsoleApplication49\ConsoleApplication49\obj\Debug\ConsoleApplication49.exe
+D:\Soft\#Учёба НТГПК\!!!Учёба-Порядок\3 курс\КЭ\Арсентьев Фуркадо\ConsoleApplication49\ConsoleApplication49\obj\Debug\ConsoleApplication49.pdb
+G:\Арсентьев С++  и С#\C#\ConsoleApplication49\ConsoleApplication49\bin\Debug\ConsoleApplication49.exe.config
+G:\Арсентьев С++  и С#\C#\ConsoleApplication49\ConsoleApplication49\bin\Debug\ConsoleApplication49.exe
+G:\Арсентьев С++  и С#\C#\ConsoleApplication49\ConsoleApplication49\bin\Debug\ConsoleApplication49.pdb
+G:\Арсентьев С++  и С#\C#\ConsoleApplication49\ConsoleApplication49\obj\Debug\ConsoleApplication49.csproj.CoreCompileInputs.cache
+G:\Арсентьев С++  и С#\C#\ConsoleApplication49\ConsoleApplication49\obj\Debug\ConsoleApplication49.exe
+G:\Арсентьев С++  и С#\C#\ConsoleApplication49\ConsoleApplication49\obj\Debug\ConsoleApplication49.pdb
