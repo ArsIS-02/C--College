@@ -1,0 +1,11 @@
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication25\ConsoleApplication25\bin\Debug\ConsoleApplication25.exe.config
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication25\ConsoleApplication25\bin\Debug\ConsoleApplication25.exe
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication25\ConsoleApplication25\bin\Debug\ConsoleApplication25.pdb
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication25\ConsoleApplication25\obj\Debug\ConsoleApplication25.exe
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication25\ConsoleApplication25\obj\Debug\ConsoleApplication25.pdb
+G:\Арсентьев С++  и С#\C#\ConsoleApplication25\ConsoleApplication25\bin\Debug\ConsoleApplication25.exe.config
+G:\Арсентьев С++  и С#\C#\ConsoleApplication25\ConsoleApplication25\bin\Debug\ConsoleApplication25.exe
+G:\Арсентьев С++  и С#\C#\ConsoleApplication25\ConsoleApplication25\bin\Debug\ConsoleApplication25.pdb
+G:\Арсентьев С++  и С#\C#\ConsoleApplication25\ConsoleApplication25\obj\Debug\ConsoleApplication25.csproj.CoreCompileInputs.cache
+G:\Арсентьев С++  и С#\C#\ConsoleApplication25\ConsoleApplication25\obj\Debug\ConsoleApplication25.exe
+G:\Арсентьев С++  и С#\C#\ConsoleApplication25\ConsoleApplication25\obj\Debug\ConsoleApplication25.pdb
