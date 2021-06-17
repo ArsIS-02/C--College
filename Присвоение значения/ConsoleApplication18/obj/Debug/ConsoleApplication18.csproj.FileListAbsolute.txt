@@ -1,0 +1,10 @@
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication18\ConsoleApplication18\bin\Debug\ConsoleApplication18.exe.config
+G:\Арсентьев С++  и С#\C#\ConsoleApplication18\ConsoleApplication18\obj\Debug\ConsoleApplication18.csproj.AssemblyReference.cache
+G:\Арсентьев С++  и С#\C#\ConsoleApplication18\ConsoleApplication18\obj\Debug\ConsoleApplication18.csproj.CoreCompileInputs.cache
+G:\Арсентьев С++  и С#\C#\Присвоение значения\ConsoleApplication18\bin\Debug\ConsoleApplication18.exe.config
+G:\Арсентьев С++  и С#\C#\Присвоение значения\ConsoleApplication18\bin\Debug\ConsoleApplication18.exe
+G:\Арсентьев С++  и С#\C#\Присвоение значения\ConsoleApplication18\bin\Debug\ConsoleApplication18.pdb
+G:\Арсентьев С++  и С#\C#\Присвоение значения\ConsoleApplication18\obj\Debug\ConsoleApplication18.csproj.AssemblyReference.cache
+G:\Арсентьев С++  и С#\C#\Присвоение значения\ConsoleApplication18\obj\Debug\ConsoleApplication18.csproj.CoreCompileInputs.cache
+G:\Арсентьев С++  и С#\C#\Присвоение значения\ConsoleApplication18\obj\Debug\ConsoleApplication18.exe
+G:\Арсентьев С++  и С#\C#\Присвоение значения\ConsoleApplication18\obj\Debug\ConsoleApplication18.pdb

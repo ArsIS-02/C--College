@@ -1,0 +1,11 @@
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
+G:\Арсентьев С++  и С#\C#\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+G:\Арсентьев С++  и С#\C#\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+G:\Арсентьев С++  и С#\C#\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+G:\Арсентьев С++  и С#\C#\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.csproj.CoreCompileInputs.cache
+G:\Арсентьев С++  и С#\C#\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+G:\Арсентьев С++  и С#\C#\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb

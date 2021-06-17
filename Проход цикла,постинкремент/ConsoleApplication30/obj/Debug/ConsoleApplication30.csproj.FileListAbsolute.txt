@@ -1,0 +1,8 @@
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication30\ConsoleApplication30\bin\Debug\ConsoleApplication30.exe.config
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication30\ConsoleApplication30\bin\Debug\ConsoleApplication30.exe
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication30\ConsoleApplication30\bin\Debug\ConsoleApplication30.pdb
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication30\ConsoleApplication30\obj\Debug\ConsoleApplication30.exe
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication30\ConsoleApplication30\obj\Debug\ConsoleApplication30.pdb
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication29\ConsoleApplication30\bin\Debug\ConsoleApplication30.exe.config
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication29\ConsoleApplication30\obj\Debug\ConsoleApplication30.exe
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication29\ConsoleApplication30\obj\Debug\ConsoleApplication30.pdb
