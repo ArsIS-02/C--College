@@ -1,0 +1,12 @@
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication21\ConsoleApplication21\bin\Debug\ConsoleApplication21.exe.config
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication21\ConsoleApplication21\bin\Debug\ConsoleApplication21.exe
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication21\ConsoleApplication21\bin\Debug\ConsoleApplication21.pdb
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication21\ConsoleApplication21\obj\Debug\ConsoleApplication21.exe
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication21\ConsoleApplication21\obj\Debug\ConsoleApplication21.pdb
+G:\Арсентьев С++  и С#\C#\ConsoleApplication21\ConsoleApplication21\bin\Debug\ConsoleApplication21.exe.config
+G:\Арсентьев С++  и С#\C#\ConsoleApplication21\ConsoleApplication21\bin\Debug\ConsoleApplication21.exe
+G:\Арсентьев С++  и С#\C#\ConsoleApplication21\ConsoleApplication21\bin\Debug\ConsoleApplication21.pdb
+G:\Арсентьев С++  и С#\C#\ConsoleApplication21\ConsoleApplication21\obj\Debug\ConsoleApplication21.csproj.AssemblyReference.cache
+G:\Арсентьев С++  и С#\C#\ConsoleApplication21\ConsoleApplication21\obj\Debug\ConsoleApplication21.csproj.CoreCompileInputs.cache
+G:\Арсентьев С++  и С#\C#\ConsoleApplication21\ConsoleApplication21\obj\Debug\ConsoleApplication21.exe
+G:\Арсентьев С++  и С#\C#\ConsoleApplication21\ConsoleApplication21\obj\Debug\ConsoleApplication21.pdb

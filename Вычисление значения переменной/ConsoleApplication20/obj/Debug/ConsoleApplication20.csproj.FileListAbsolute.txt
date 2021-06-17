@@ -1,0 +1,11 @@
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication20\ConsoleApplication20\bin\Debug\ConsoleApplication20.exe.config
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication20\ConsoleApplication20\bin\Debug\ConsoleApplication20.exe
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication20\ConsoleApplication20\bin\Debug\ConsoleApplication20.pdb
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication20\ConsoleApplication20\obj\Debug\ConsoleApplication20.exe
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication20\ConsoleApplication20\obj\Debug\ConsoleApplication20.pdb
+G:\Арсентьев С++  и С#\C#\ConsoleApplication20\ConsoleApplication20\bin\Debug\ConsoleApplication20.exe.config
+G:\Арсентьев С++  и С#\C#\ConsoleApplication20\ConsoleApplication20\bin\Debug\ConsoleApplication20.exe
+G:\Арсентьев С++  и С#\C#\ConsoleApplication20\ConsoleApplication20\bin\Debug\ConsoleApplication20.pdb
+G:\Арсентьев С++  и С#\C#\ConsoleApplication20\ConsoleApplication20\obj\Debug\ConsoleApplication20.csproj.CoreCompileInputs.cache
+G:\Арсентьев С++  и С#\C#\ConsoleApplication20\ConsoleApplication20\obj\Debug\ConsoleApplication20.exe
+G:\Арсентьев С++  и С#\C#\ConsoleApplication20\ConsoleApplication20\obj\Debug\ConsoleApplication20.pdb
