@@ -1,0 +1,12 @@
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication10\ConsoleApplication10\bin\Debug\ConsoleApplication10.exe.config
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication10\ConsoleApplication10\bin\Debug\ConsoleApplication10.exe
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication10\ConsoleApplication10\bin\Debug\ConsoleApplication10.pdb
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication10\ConsoleApplication10\obj\Debug\ConsoleApplication10.exe
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication10\ConsoleApplication10\obj\Debug\ConsoleApplication10.pdb
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication10\ConsoleApplication10\obj\Debug\ConsoleApplication10.csprojResolveAssemblyReference.cache
+G:\Арсентьев С++  и С#\C#\ConsoleApplication10\ConsoleApplication10\bin\Debug\ConsoleApplication10.exe.config
+G:\Арсентьев С++  и С#\C#\ConsoleApplication10\ConsoleApplication10\bin\Debug\ConsoleApplication10.exe
+G:\Арсентьев С++  и С#\C#\ConsoleApplication10\ConsoleApplication10\bin\Debug\ConsoleApplication10.pdb
+G:\Арсентьев С++  и С#\C#\ConsoleApplication10\ConsoleApplication10\obj\Debug\ConsoleApplication10.csproj.CoreCompileInputs.cache
+G:\Арсентьев С++  и С#\C#\ConsoleApplication10\ConsoleApplication10\obj\Debug\ConsoleApplication10.exe
+G:\Арсентьев С++  и С#\C#\ConsoleApplication10\ConsoleApplication10\obj\Debug\ConsoleApplication10.pdb

@@ -1,0 +1,12 @@
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe.config
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.pdb
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.exe
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.pdb
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.csprojResolveAssemblyReference.cache
+G:\Арсентьев С++  и С#\C#\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe.config
+G:\Арсентьев С++  и С#\C#\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe
+G:\Арсентьев С++  и С#\C#\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.pdb
+G:\Арсентьев С++  и С#\C#\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.csproj.CoreCompileInputs.cache
+G:\Арсентьев С++  и С#\C#\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.exe
+G:\Арсентьев С++  и С#\C#\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.pdb

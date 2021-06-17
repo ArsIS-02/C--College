@@ -1,0 +1,12 @@
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication28\ConsoleApplication28\bin\Debug\ConsoleApplication28.exe.config
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication28\ConsoleApplication28\obj\Debug\ConsoleApplication28.csprojResolveAssemblyReference.cache
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication28\ConsoleApplication28\bin\Debug\ConsoleApplication28.exe
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication28\ConsoleApplication28\bin\Debug\ConsoleApplication28.pdb
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication28\ConsoleApplication28\obj\Debug\ConsoleApplication28.exe
+Z:\Кабинет 21\ПИН-3\Арсентьев Фуркадо\ConsoleApplication28\ConsoleApplication28\obj\Debug\ConsoleApplication28.pdb
+G:\Арсентьев С++  и С#\C#\ConsoleApplication28\ConsoleApplication28\bin\Debug\ConsoleApplication28.exe.config
+G:\Арсентьев С++  и С#\C#\ConsoleApplication28\ConsoleApplication28\bin\Debug\ConsoleApplication28.exe
+G:\Арсентьев С++  и С#\C#\ConsoleApplication28\ConsoleApplication28\bin\Debug\ConsoleApplication28.pdb
+G:\Арсентьев С++  и С#\C#\ConsoleApplication28\ConsoleApplication28\obj\Debug\ConsoleApplication28.csproj.CoreCompileInputs.cache
+G:\Арсентьев С++  и С#\C#\ConsoleApplication28\ConsoleApplication28\obj\Debug\ConsoleApplication28.exe
+G:\Арсентьев С++  и С#\C#\ConsoleApplication28\ConsoleApplication28\obj\Debug\ConsoleApplication28.pdb
